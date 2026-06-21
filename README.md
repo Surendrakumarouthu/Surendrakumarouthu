@@ -1,6 +1,62 @@
-# 💫 About Me:
-Hi 👋, I'm surendrakumar<br>Full Stack Developer | Future AI Engineer | Accenture AASE<br><br>🚀 Passionate Full Stack Developer with experience building scalable web applications using React.js, Next.js, Angular, Node.js, ASP.NET, PostgreSQL, MongoDB, and MySQL.<br><br>💼 Currently working as an Associate Software Developer at Musquare Technologies.<br><br>🎯 Current Focus:<br><br>Python Development<br>AWS Cloud<br>Generative AI<br>Agentic AI<br>System Design<br>Data Structures & Algorithms<br>👨‍💻 About Me<br>💻 Full Stack Developer with professional experience<br>🌱 Learning Python, AWS, GenAI, and AI Engineering<br>🏢 Incoming Advanced App Engineering Associate (AASE)<br>⚡ Passionate about building scalable products<br>📍 India<br>🛠 Tech Stack<br>Frontend<br><br>Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap, React JS, Next.js, Dart, Tailwind CSS<br><br>Backend<br><br>Node.js, Express.js, REST API, .NET Core, ASP.NET Web API, C#, Java<br><br>Database<br><br>MongoDB (Mongoose), NoSQL, MySQL, PostgreSQL<br><br>Tools<br><br>VS Code, Visual Studio, Eclipse, Postman, Swagger, PG Admin 4, Apollo Server, Git, GitHub<br><br>🚀 Featured Projects<br>🏢 HRM Web Application<br><br>Enterprise HR management system with workflow automation and scalable architecture.<br><br>🎓 EDUWORK (LMS)<br><br>Learning Management System with optimized routing and improved user experience.<br><br>🛒 BagsMine E-Commerce<br><br>Product management dashboard with REST APIs and database integration.<br><br>📸 Headshot Makers<br><br>Interactive image editing platform with server-side rendering and secure storage.<br><br>🌾 FarmTech Solutions<br><br>MEAN Stack application connecting agricultural specialists with farmers.<br><br>❤️ HopeConnect<br><br>Social welfare platform connecting vulnerable groups with support services.<br><br>🩸 Blood Link<br><br>Blood donation platform with real-time donor availability tracking.<br><br>📜 Certifications<br><br>🏆 PEGA Senior System Architect<br><br>🏆 PEGA System Architect<br><br>🏆 Full Stack Development – Dr. Reddy's Foundation<br><br>🏆 IBM SQL & Relational Databases<br><br>🏆 Microsoft Azure Fundamentals<br><br>🏆 Microsoft Azure AI Fundamentals<br><br>📈 2026 Goals<br>Master Python Development<br>Learn AWS Cloud Architecture<br>Build GenAI Projects<br>Become AI Engineer<br>Contribute to Open Source<br>Solve 500+ DSA Problems<br>📫 Connect With Me<br><br>LinkedIn: www.linkedin.com/in/routhu-surendra-kumar<br><br>Email: routhusurendrakumar4@gmail.com<br><br>⭐ "Consistency beats talent when talent doesn't work hard."
+# 💫 About Me
 
+Hi 👋, I'm Surendrakumar
+Full Stack Developer | Future AI Engineer | Accenture AASE
+
+🚀 About Me
+
+🎯 Current Role: Associate Software Developer at Musquare Technologies
+💼 Incoming: Advanced App Engineering Associate (AASE) at Accenture
+🌱 Learning: Python, AWS Cloud, Generative AI, Agentic AI, System Design, DSA
+📍 Location: India
+⚡ Passion: Building scalable products and solving real-world problems
+
+"Consistency beats talent when talent doesn't work hard."
+
+🛠️ Tech Stack
+
+🎨 Frontend: Angular | React.js | Next.js | TypeScript | JavaScript | HTML5 | CSS3 | Tailwind CSS | Bootstrap | Dart
+
+⚙️ Backend: Node.js | Express.js | ASP.NET Core | C# | Java | REST API | .NET Web API
+
+🗄️ Database: PostgreSQL | MongoDB | MySQL | NoSQL | Mongoose
+
+🧰 Tools: VS Code | Visual Studio | Eclipse | Postman | Swagger | PG Admin 4 | Apollo Server | Git | GitHub
+
+📌 Featured Projects
+
+🏢 HRM Web Application - Enterprise HRMS with workflow automation
+🎓 EDUWORK (LMS) - Learning Management System with optimized UX
+🛒 BagsMine E-Commerce - Product dashboard with REST APIs
+📸 Headshot Makers - Image editing platform with SSR
+🌾 FarmTech Solutions - MEAN Stack app for farmers
+❤️ HopeConnect - Social welfare support platform
+🩸 Blood Link - Blood donation with real-time tracking
+
+🏅 Certifications
+
+🏆 PEGA Senior System Architect
+🏆 PEGA System Architect
+🏆 Full Stack Development – Dr. Reddy's Foundation
+🏆 IBM SQL & Relational Databases
+🏆 Microsoft Azure Fundamentals
+🏆 Microsoft Azure AI Fundamentals
+
+🎯 2026 Goals
+
+✅ Master Python Development
+✅ Learn AWS Cloud Architecture
+✅ Build Generative AI Projects
+✅ Become an AI Engineer
+✅ Contribute to Open Source
+✅ Solve 500+ DSA Problems
+
+📫 Connect With Me
+
+💼 LinkedIn: www.linkedin.com/in/routhu-surendra-kumar
+📧 Email: routhusurendrakumar4@gmail.com
+
+✨ Building the future, one commit at a time.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surendrakumar_routhu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surendrakumar-routhu-05762923a) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Surendrakumar Routhu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:routhusurendrakumar4@gmail.com) 
