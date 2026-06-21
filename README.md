@@ -1,18 +1,134 @@
-# 💫 About Me:
-Hi 👋, I'm surendrakumar<br>Full Stack Developer | Future AI Engineer | Accenture AASE<br><br>🚀 Passionate Full Stack Developer with experience building scalable web applications using React.js, Next.js, Angular, Node.js, ASP.NET, PostgreSQL, MongoDB, and MySQL.<br><br>💼 Currently working as an Associate Software Developer at Musquare Technologies.<br><br>🎯 Current Focus:<br><br>Python Development<br>AWS Cloud<br>Generative AI<br>Agentic AI<br>System Design<br>Data Structures & Algorithms<br>👨‍💻 About Me<br>💻 Full Stack Developer with professional experience<br>🌱 Learning Python, AWS, GenAI, and AI Engineering<br>🏢 Incoming Advanced App Engineering Associate (AASE)<br>⚡ Passionate about building scalable products<br>📍 India<br>🛠 Tech Stack<br>Frontend<br><br><br><br><br><br><br><br><br>Backend<br><br><br><br><br><br><br>Database<br><br><br><br><br><br><br>Tools<br><br><br><br><br><br><br><br>🚀 Featured Projects<br>🏢 HRM Web Application<br><br>Enterprise HR management system with workflow automation and scalable architecture.<br><br>🎓 EDUWORK (LMS)<br><br>Learning Management System with optimized routing and improved user experience.<br><br>🛒 BagsMine E-Commerce<br><br>Product management dashboard with REST APIs and database integration.<br><br>📸 Headshot Makers<br><br>Interactive image editing platform with server-side rendering and secure storage.<br><br>🌾 FarmTech Solutions<br><br>MEAN Stack application connecting agricultural specialists with farmers.<br><br>❤️ HopeConnect<br><br>Social welfare platform connecting vulnerable groups with support services.<br><br>🩸 Blood Link<br><br>Blood donation platform with real-time donor availability tracking.<br><br>📜 Certifications<br><br>🏆 PEGA Senior System Architect<br><br>🏆 PEGA System Architect<br><br>🏆 Full Stack Development – Dr. Reddy's Foundation<br><br>🏆 IBM SQL & Relational Databases<br><br>🏆 Microsoft Azure Fundamentals<br><br>🏆 Microsoft Azure AI Fundamentals<br><br>📈 2026 Goals<br>Master Python Development<br>Learn AWS Cloud Architecture<br>Build GenAI Projects<br>Become AI Engineer<br>Contribute to Open Source<br>Solve 500+ DSA Problems<br>📫 Connect With Me<br><br>LinkedIn: www.linkedin.com/in/routhu-surendra-kumar<br><br>Email: routhusurendrakumar4@gmail.com<br><br>⭐ "Consistency beats talent when talent doesn't work hard."
+# Hi 👋, I'm Surendrakumar Routhu
 
+### Full Stack Developer | AI Enthusiast | Future AI Engineer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surendrakumar_routhu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surendrakumar-routhu-05762923a) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Surendrakumar Routhu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:routhusurendrakumar4@gmail.com) 
+🚀 Passionate Full Stack Developer with experience building scalable web applications using React.js, Next.js, Angular, Node.js, ASP.NET, PostgreSQL, MongoDB, and MySQL.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Surendrakumarouthu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Surendrakumarouthu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Surendrakumarouthu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💼 Currently working as an Associate Software Developer at Musquare Technologies Pvt Ltd.
+
+🌱 Currently learning Python, AWS, Generative AI, Agentic AI, System Design, and Data Structures & Algorithms.
+
+🎯 Career Goal: Transition from Full Stack Development to AI Engineering and build intelligent, scalable software solutions.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Surendrakumarouthu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+* 💻 Full Stack Developer with professional industry experience
+* ⚡ Experienced in developing responsive, scalable web applications
+* 🚀 Passionate about Cloud Computing, AI, and Modern Web Technologies
+* 🌱 Continuously learning and improving every day
+* 🏢 Incoming Advanced App Engineering Associate (AASE)
+* 📍 India
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: linkedin.com/in/routhu-surendra-kumar
+* Email: [routhusurendrakumar4@gmail.com](mailto:routhusurendrakumar4@gmail.com)
+* GitHub: github.com/Surendrakumarouthu
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+
+React.js • Next.js • Angular • JavaScript • TypeScript • HTML5 • CSS3 • Bootstrap • Tailwind CSS
+
+### Backend
+
+Node.js • Express.js • ASP.NET Web API • .NET Core • REST APIs
+
+### Database
+
+PostgreSQL • MongoDB • MySQL
+
+### Cloud & DevOps
+
+AWS • Vercel • Netlify • Nginx
+
+### Tools & Platforms
+
+Git • GitHub • VS Code • Postman • Swagger • PGAdmin • Windows Terminal
+
+### Programming Languages
+
+JavaScript • Python • Java • C#
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 HRM Web Application
+
+Enterprise-grade HR management platform with workflow automation and scalable architecture.
+
+### 🎓 EDUWORK (LMS)
+
+Learning Management System focused on optimized routing and enhanced user experience.
+
+### 🛒 BagsMine E-Commerce
+
+E-commerce platform featuring product management dashboards and REST API integrations.
+
+### 📸 Headshot Makers
+
+Interactive image editing application with server-side rendering and secure storage.
+
+### 🌾 FarmTech Solutions
+
+MEAN Stack application connecting farmers with agricultural specialists.
+
+### ❤️ HopeConnect
+
+Social welfare platform helping vulnerable groups connect with nearby support services.
+
+### 🩸 Blood Link
+
+Blood donation platform with real-time donor availability tracking.
+
+---
+
+## 📜 Certifications
+
+🏆 PEGA Senior System Architect
+
+🏆 PEGA System Architect
+
+🏆 Full Stack Development – Dr. Reddy's Foundation
+
+🏆 IBM SQL & Relational Databases
+
+🏆 Microsoft Azure Fundamentals
+
+🏆 Microsoft Azure AI Fundamentals
+
+---
+
+## 📈 2026 Goals
+
+* Master Python Development
+* Learn AWS Cloud Architecture
+* Build Real-World GenAI Applications
+* Become an AI Engineer
+* Contribute to Open Source Projects
+* Solve 500+ DSA Problems
+* Strengthen System Design Skills
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surendrakumarouthu\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surendrakumarouthu\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Surendrakumarouthu\&theme=tokyonight)
+
+---
+
+### ⭐ Quote
+
+> "Consistency beats talent when talent doesn't work hard."
